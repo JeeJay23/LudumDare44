@@ -1,0 +1,78 @@
+...
+25 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+[StaticMesh] -> "SM_Cube_MaterialTest_1x1x1.fbx" exported in 0.03125 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Platform_Basic_1x1x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_2x1x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_3x1x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_1x1x1.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_4x1x1.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_2x1x2.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_3x1x2.fbx" exported in 0.0625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_1x1x2.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Ramp_basic_4x1x2.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Cube_Basic_1x1x1.fbx" exported in 0.03125 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Cube_Basic_3x3x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Cube_Basic_4x2x1.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Cube_CornerRound_Basic_1x1x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Platform_Basic_3x1x1.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Cube_CornerRound_Basic_2x2x1.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Platform_CornerRound_Basic_1x1x1.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Platform_Basic_2x2x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Platform_CornerSharp_Basic_1x1x1.fbx" exported in 0.0 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Basic_StairCase_Special.fbx" exported in 0.03125 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Character_Pig_01.fbx" exported in 0.09375 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Coin_M.fbx" exported in 0.03125 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Coin_XS.fbx" exported in 0.015625 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Coin_L.fbx" exported in 0.078125 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
+[StaticMesh] -> "SM_Coin_S.fbx" exported in 0.046875 sec.
+C:\Users\jssou\Documents\Gay Jam\LudumDare44\blender\Edit\Blockout\ExportedFbx\StaticMesh\
+
