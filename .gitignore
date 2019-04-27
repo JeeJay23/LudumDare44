@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # dont ignore blender objects
 !/blender/*
+
+GayJam44/Saved/Config/Windows/EditorPerProjectUserSettings\.ini
