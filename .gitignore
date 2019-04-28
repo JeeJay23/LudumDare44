@@ -77,3 +77,11 @@ DerivedDataCache/*
 !/blender/*
 
 GayJam44/Saved/Logs/GayJam44\.log
+
+GayJam44/Intermediate/CachedAssetRegistry\.bin
+
+GayJam44/Saved/Config/CrashReportClient/UE4CC-Windows-4A0758B74C44D00209C8548E07FEA226/CrashReportClient\.ini
+
+GayJam44/Saved/Config/Windows/EditorPerProjectUserSettings\.ini
+
+GayJam44/Saved/Logs/
