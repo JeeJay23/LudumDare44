@@ -76,4 +76,12 @@ DerivedDataCache/*
 # dont ignore blender objects
 !/blender/*
 
+# FUCK UNREAL
+
 GayJam44/Saved/Logs/GayJam44\.log
+
+GayJam44/Intermediate/CachedAssetRegistry\.bin
+GayJam44/Saved/Autosaves/*
+GayJam44/Saved/Backup/*
+GayJam44/Saved/Config/*
+GayJam44/Saved/Logs/*
