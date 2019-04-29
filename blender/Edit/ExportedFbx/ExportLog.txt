@@ -1,6 +1,6 @@
 ...
 1 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
 
-[StaticMesh] -> "SM_PiggyBank.fbx" exported in 0.34375 sec.
+[StaticMesh] -> "SM_PiggyBank.fbx" exported in 0.28125 sec.
 C:\Users\jssou\Documents\Gay Jam\asdiasojdsdiouhsdefsd2\LudumDare44\blender\Edit\ExportedFbx\StaticMesh\
 
