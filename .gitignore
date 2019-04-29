@@ -85,3 +85,7 @@ GayJam44/Saved/Autosaves/*
 GayJam44/Saved/Backup/*
 GayJam44/Saved/Config/*
 GayJam44/Saved/Logs/*
+
+*.hdr
+
+blender/render/
